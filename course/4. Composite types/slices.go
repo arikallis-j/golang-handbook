@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func test_slice() {
 	// var mySlice []int
 	// mySlice := make([]int, 0)     // слайс [], базовый массив []
 	// mySlice := make([]int, 5)     // слайс [0 0 0 0 0], базовый массив [0 0 0 0 0]
